@@ -6,3 +6,13 @@ C:\Users\Harley\Projects\askharley\dotnet-core-cqrs-example\Domain\obj\Debug\net
 C:\Users\Harley\Projects\askharley\dotnet-core-cqrs-example\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
 C:\Users\Harley\Projects\askharley\dotnet-core-cqrs-example\Domain\obj\Debug\netcoreapp3.0\Domain.dll
 C:\Users\Harley\Projects\askharley\dotnet-core-cqrs-example\Domain\obj\Debug\netcoreapp3.0\Domain.pdb
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\bin\Debug\netcoreapp3.0\Domain.dll
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.csproj.AssemblyReference.cache
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.dll
+D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\Domain\obj\Debug\netcoreapp3.0\Domain.pdb

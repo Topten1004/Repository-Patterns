@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = API
+build_property.ProjectDir = D:\GitHub\FullStack_Github\Repository-Patterns\dotnet-core-cqrs-example-master\dotnet-core-cqrs-example-master\API\
